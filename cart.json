@@ -1,0 +1,14 @@
+{
+  "P001": {
+    "name": "Laptop",
+    "price": 1000,
+    "category": "Electronics",
+    "quantity": 1
+  },
+  "P002": {
+    "name": "Phone",
+    "price": 500,
+    "category": "Electronics",
+    "quantity": 6
+  }
+}
